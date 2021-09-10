@@ -1,0 +1,20 @@
+{
+  "setores": [
+    {
+      "nome": "Xeon",
+      "cargos": [
+        "E31270V3",
+        "4/8",
+        "3.9GHz"
+      ],
+      "id": 1631246085949
+    },
+    {
+      "nome": "MAURO C Z FILHO",
+      "cargos": [
+        "Dev Jr"
+      ],
+      "id": 1631246160211
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.App {
+    padding: 40px;
+}
+
+.header {
+    padding: 30px 0;
+}
+
+.header-item {
+    background-color: lightgrey;
+    width: 150px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-item svg {
+    width: 45px;
+    height: 45px;
+}
